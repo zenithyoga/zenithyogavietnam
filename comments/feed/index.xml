@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Zenith Yoga	</title>
-	<atom:link href="/zenithyogavietnam//comments/feed" rel="self" type="application/rss+xml" />
-	<link>/zenithyogavietnam/</link>
+	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 22 Dec 2023 07:51:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
