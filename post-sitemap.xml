@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc></loc>
 		<lastmod>2024-01-06T12:51:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//kapalbhati-yoga-benefits-for-skin-and-hair-growth</loc>
+		<loc>/kapalbhati-yoga-benefits-for-skin-and-hair-growth</loc>
 		<lastmod>2023-12-22T07:43:24+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2023/12/Kapalbhati-Yoga-Benefits-for-Skin-and-Hair-Growth.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Kapalbhati-Yoga-Benefits-for-Skin-and-Hair-Growth.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//progress-in-yoga-poses-at-home-for-beginners-step-by-step</loc>
+		<loc>/progress-in-yoga-poses-at-home-for-beginners-step-by-step</loc>
 		<lastmod>2023-12-22T07:50:59+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2023/12/How-to-Progress-in-Yoga-Poses-at-Home-for-Beginners-step-by-step.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/How-to-Progress-in-Yoga-Poses-at-Home-for-Beginners-step-by-step.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//what-is-the-ultimate-goal-of-meditation</loc>
+		<loc>/what-is-the-ultimate-goal-of-meditation</loc>
 		<lastmod>2024-01-06T12:51:14+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/01/Ultimate-Goal-of-Meditation.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/01/Ultimate-Goal-of-Meditation.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//10-health-benefits-of-vinyasa-flow-yoga</loc>
+		<loc>/10-health-benefits-of-vinyasa-flow-yoga</loc>
 		<lastmod>2024-01-06T12:51:57+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/01/Health-Benefits-of-Vinyasa-Flow-Yoga.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/01/Health-Benefits-of-Vinyasa-Flow-Yoga.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/01/Health-Benefits-of-Vinyasa-Flow-Yoga.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/01/Health-Benefits-of-Vinyasa-Flow-Yoga.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
