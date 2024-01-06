@@ -1,2 +1,0 @@
-# zenithyogavietnam
-Zenith Yoga Vietnam
